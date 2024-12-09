@@ -15,16 +15,16 @@ Analyzed fairness and bias in frontier AI models for legal applications to promo
 **`Other Projects`**<br>
 In addition to research, I am a hobbyist with a strong interest in exploring robotics, experimenting with circuits, and drafting designs in CAD., having worked on personal/club projects involving:
  * Raspberry Pi for web-based motor control using JavaScript
- * Arduino programming for mini-projects and laser-tag-enabled RC cars (client-server communication)
-<br>
-**`Skills & Technologies`**<br>
+ * Arduino programming for mini-projects and laser-tag-enabled RC cars (client-server communication)<br>
+
+**`Skills & Technologies`** <br>
 Programming Languages: Python, C, C++, Arduino, JavaScript<br>
 Libraries: TensorFlow, scikit-learn, pandas, NumPy, matplotlib, spaCy, Node.js <br>
-Tools: Gemini API, Jupyter Notebooks, CAD software<br>
-<br>
-**`Future Goals`**<br>
-Within the next decade, I aspire to earn a Ph.D. in Computer Science, focusing on AI research and development while advancing capabilities in AI for impactful real-world applications.<br>
-<br>
-**`Contact Me`**<br>
+Tools: Gemini API, Jupyter Notebooks, CAD software<br><br>
+
+**`Future Goals`** <br>
+Within the next decade, I aspire to earn a Ph.D. in Computer Science, focusing on AI research and development while advancing capabilities in AI for impactful real-world applications.<br><br>
+
+**`Contact Me`** <br>
 LinkedIn: www.linkedin.com/in/al-sánchez<br>
 Email: asanchez02185@gmail.com
